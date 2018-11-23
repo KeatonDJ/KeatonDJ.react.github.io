@@ -2,7 +2,7 @@
   "name": "AlarmClock",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://keatondj.github.io/react",
+  "homepage": "https://keatondj.github.io/KeatonDJReact",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "react": "^16.5.2",
